@@ -1,0 +1,6 @@
+name,envirimnet,typeoftest,deadline.feature
+tester1,phoen1,regrestion.30,map
+tester1,watch 1,sanity,23,YTM
+tesert2,watch 1,sanity,20,smartreply
+tester3,watch3,regrestion,50,smartreply
+tester4,phone,watch,regrestion2,50,fitbit

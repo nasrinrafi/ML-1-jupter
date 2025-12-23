@@ -1,0 +1,4 @@
+type,day,perentage
+batary life,2 day ,100
+sleep data,day,8
+calary burn,2days,100

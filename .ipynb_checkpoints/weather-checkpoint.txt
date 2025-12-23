@@ -1,0 +1,6 @@
+month,avrage_high,ave_low,record_high,record_low,avg_precipitation
+Jan,58,12,74,34
+june,45,12,46,45
+may,23,12,45,76
+sep,23,12,87,34
+Nov,54,54,45,24
